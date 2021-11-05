@@ -1,0 +1,36 @@
+
+    body{
+        background-image: url("AS.jpg");
+        height: 100%;
+        width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color:white;
+
+    }
+
+    header{
+        text-align:center;
+        padding-top: 1%;
+    }
+
+    div{
+        padding-top: 3%;
+        padding-left:4%;  
+    }
+
+    span{
+        text-align: left;
+    }
+
+    #logo{
+        
+        width: 15%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        padding-top: 4%;
+        border-radius: 30px;
+    }
+
